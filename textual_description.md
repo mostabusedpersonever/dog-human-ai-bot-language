@@ -10,3 +10,7 @@ Not in any order:
 * They talk indirectly: they assume the other person you are talking to is you: "i want to learn french" says the lovely mother (meaning the son)
 * In chat: "your dad will look into it" = "the son has to look into it" because they assigned dad=son
 * They brainwash and even treat their children as stupid little dogs
+
+Doctors:
+* They either do not know how to properly fix your ears/eyes/remove the chip in you or they don't care
+* If you got a doctor. They do not fix you. They calibrate you. They brainwash you. They make you read things (so your eyes upload it to the central DB). They talk to you about things (so your ears record it).
